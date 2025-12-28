@@ -27,7 +27,7 @@ class CFG:
 
     IMG_SIZE = 256
     BATCH_SIZE = 16
-    NUM_EPOCHS = 10
+    NUM_EPOCHS = 50
     LR = 1e-3
     VAL_SPLIT = 0.2
     SEED = 42
